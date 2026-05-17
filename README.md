@@ -1,1 +1,1 @@
-# Computa-o-1-UFRJ
+# Computação 1 | UFRJ
